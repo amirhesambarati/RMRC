@@ -1,0 +1,104 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Prophet\Desktop\RMRC V0.1\RMRC V0.1 PCB\RMRC V0.1\PCB1.PcbDoc
+Date     : 4/25/2026
+Time     : 11:52:25 PM
+
+WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
+   Polygon named: NONET_L-01_P-001 On Top Layer
+
+WARNING: Unplated multi-layer pad(s) detected
+   Pad SW1-???(12mm,6.8mm) on Multi-Layer on Net GND
+   Pad SW1-SH1(15.7mm,0.5mm) on Multi-Layer on Net GND
+   Pad SW1-SH2(3.3mm,0.5mm) on Multi-Layer on Net GND
+   Pad SW1-???(9.5mm,-7.7mm) on Multi-Layer on Net GND
+   Pad SW1-???(7mm,6.8mm) on Multi-Layer on Net NetR54_1
+   Pad SW1-???(12mm,-7.7mm) on Multi-Layer on Net ENC-A
+   Pad SW1-???(7mm,-7.7mm) on Multi-Layer on Net ENC-B
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+   Violation between Clearance Constraint: (0.222mm < 0.254mm) Between Pad 1-1(-40.97mm,-4.8mm) on Bottom Layer And Pad 1-6(-40.97mm,-7.34mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.222mm < 0.254mm) Between Pad 1-2(-39.7mm,-4.8mm) on Bottom Layer And Pad 1-5(-39.7mm,-7.34mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.222mm < 0.254mm) Between Pad 1-3(-38.43mm,-4.8mm) on Bottom Layer And Pad 1-4(-38.43mm,-7.34mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.222mm < 0.254mm) Between Pad 2-1(-10.77mm,10.53mm) on Bottom Layer And Pad 2-6(-8.23mm,10.53mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.222mm < 0.254mm) Between Pad 2-2(-10.77mm,11.8mm) on Bottom Layer And Pad 2-5(-8.23mm,11.8mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.222mm < 0.254mm) Between Pad 2-3(-10.77mm,13.07mm) on Bottom Layer And Pad 2-4(-8.23mm,13.07mm) on Bottom Layer 
+Rule Violations :6
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Unplated Pad SW1-???(12mm,-7.7mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetR54_1 Between Track (0.75mm,2.41mm)(4.77mm,6.43mm) on Top Layer And Pad SW1-???(7mm,6.8mm) on Multi-Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net ENC-B Between Pad SW1-???(7mm,-7.7mm) on Multi-Layer [Unplated] And Track (7mm,-7.7mm)(7mm,-5.47mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Unplated Pad SW1-SH2(3.3mm,0.5mm) on Multi-Layer 
+Rule Violations :4
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=5mm) (Preferred=0.1mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=0.6mm) (MaxHoleWidth=0.6mm) (PreferredHoleWidth=0.6mm) (MinWidth=1.2mm) (MaxWidth=1.2mm) (PreferedWidth=1.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Acute Angle Constraint (Minimum=89.000) (All)
+   Violation between Acute Angle Constraint: (45.013 < 89.000) Between Pad 1-3(-38.43mm,-4.8mm) on Bottom Layer And Track (-38.43mm,-4.8mm)(-37.8mm,-4.8mm) on Bottom Layer (Angle = 45.013)
+   Violation between Acute Angle Constraint: (78.750 < 89.000) Between Pad U13-15(-11.63mm,-28.975mm) on Top Layer And Polygon Region (7 hole(s)) Top Layer (Angle = 78.750)
+   Violation between Acute Angle Constraint: (78.750 < 89.000) Between Pad U13-9(-11.63mm,-32.875mm) on Top Layer And Polygon Region (7 hole(s)) Top Layer (Angle = 78.750)
+   Violation between Acute Angle Constraint: (83.850 < 89.000) Between Pad U3-9(-13.33mm,-2.45mm) on Top Layer And Track (-15.15mm,-2.45mm)(-13.33mm,-2.45mm) on Top Layer (Angle = 83.850)
+   Violation between Acute Angle Constraint: (86.223 < 89.000) Between Polygon Region (0 hole(s)) Top Layer And Via (-4mm,13.3mm) from Top Layer to Bottom Layer (Angle = 86.223)
+   Violation between Acute Angle Constraint: (44.860 < 89.000) Between Pad 1-1(-40.97mm,-4.8mm) on Bottom Layer And Track (-40.97mm,-4.8mm)(-40.97mm,-2mm) on Bottom Layer (Angle = 44.860)
+   Violation between Acute Angle Constraint: (45.013 < 89.000) Between Pad 2-1(-10.77mm,10.53mm) on Bottom Layer And Track (-10.77mm,10.53mm)(-10.77mm,11.8mm) on Bottom Layer (Angle = 45.013)
+   Violation between Acute Angle Constraint: (45.013 < 89.000) Between Pad 2-2(-10.77mm,11.8mm) on Bottom Layer And Track (-10.77mm,11.8mm)(-10.77mm,13.07mm) on Bottom Layer (Angle = 45.013)
+   Violation between Acute Angle Constraint: (44.860 < 89.000) Between Pad 2-3(-10.77mm,13.07mm) on Bottom Layer And Track (-10.77mm,11.8mm)(-10.77mm,13.07mm) on Bottom Layer (Angle = 44.860)
+   Violation between Acute Angle Constraint: (85.500 < 89.000) Between Track (-30.147mm,-2.671mm)(-25.304mm,-2.671mm) on Bottom Layer And Via (-30.227mm,-2.591mm) from Top Layer to Bottom Layer (Angle = 85.500)
+Rule Violations :10
+
+Processing Rule : Hole Size Constraint (Min=0.5mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.8mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.015mm < 0.254mm) Between Pad 1-1(-40.97mm,-4.8mm) on Bottom Layer And Pad 1-6(-40.97mm,-7.34mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.015mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.015mm < 0.254mm) Between Pad 1-2(-39.7mm,-4.8mm) on Bottom Layer And Pad 1-5(-39.7mm,-7.34mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.015mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.015mm < 0.254mm) Between Pad 1-3(-38.43mm,-4.8mm) on Bottom Layer And Pad 1-4(-38.43mm,-7.34mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.015mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.015mm < 0.254mm) Between Pad 2-1(-10.77mm,10.53mm) on Bottom Layer And Pad 2-6(-8.23mm,10.53mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.015mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.015mm < 0.254mm) Between Pad 2-2(-10.77mm,11.8mm) on Bottom Layer And Pad 2-5(-8.23mm,11.8mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.015mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.015mm < 0.254mm) Between Pad 2-3(-10.77mm,13.07mm) on Bottom Layer And Pad 2-4(-8.23mm,13.07mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.015mm]
+Rule Violations :6
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Text "J4" (-17.678mm,47.041mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Text "J6" (63.506mm,42.189mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Text "P7" (-48.408mm,40.422mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Text "P8" (-7.266mm,-48.053mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Text "P9" (-16.249mm,-48.053mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.267mm < 0.5mm) Between Board Edge And Text "Q7" (25.441mm,40.056mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.216mm < 0.5mm) Between Board Edge And Text "R16" (-52.571mm,40.107mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.216mm < 0.5mm) Between Board Edge And Text "R18" (-45.485mm,40.107mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Text "R22" (33.487mm,40.564mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Text "R30" (22.082mm,40.564mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.013mm < 0.5mm) Between Board Edge And Text "R65" (52.73mm,40.31mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.013mm < 0.5mm) Between Board Edge And Text "R66" (44.628mm,40.31mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Track (-17.705mm,34mm)(-17.705mm,46mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Track (-32.945mm,34mm)(-32.945mm,46mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Track (-32.945mm,46mm)(-17.705mm,46mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.485mm < 0.5mm) Between Board Edge And Track (53.675mm,-41.165mm)(53.675mm,-31.005mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.485mm < 0.5mm) Between Board Edge And Track (53.675mm,-41.165mm)(63.475mm,-41.165mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.485mm < 0.5mm) Between Board Edge And Track (63.475mm,-41.165mm)(63.475mm,-31.005mm) on Bottom Overlay 
+Rule Violations :18
+
+
+Violations Detected : 44
+Waived Violations : 0
+Time Elapsed        : 00:00:01
