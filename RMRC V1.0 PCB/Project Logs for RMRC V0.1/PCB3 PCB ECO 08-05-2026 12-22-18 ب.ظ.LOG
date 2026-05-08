@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=power_ENC_2 Pin=JP4-2
+Removed Pin From Net: NetName=power_ENC_2 Pin=P12-2
+Removed Pin From Net: NetName=power_ENC_1 Pin=R14-2
+Removed Pin From Net: NetName=power_ENC_1 Pin=R15-2
+Removed Pin From Net: NetName=power_ENC_2 Pin=R111-2
+Removed Pin From Net: NetName=power_ENC_2 Pin=R112-2
+Removed Member From Class: ClassName=interface Member=C14
+Removed Member From Class: ClassName=receiver 1 Member=C18
+Removed Member From Class: ClassName=receiver 2 Member=C22
+Added Pin To Net: NetName=power_ENC_2 Pin=R14-2
+Added Pin To Net: NetName=power_ENC_2 Pin=R15-2
+Add Net: Net with name "power_ENC_1" already exists
+Add Net: Net with name "power_ENC_2" already exists
+Added Member To Class: ClassName=interface Member=Component C13 1uf-1206
+Added Member To Class: ClassName=receiver 1 Member=Component C15 1uf-1206
+Added Member To Class: ClassName=receiver 1 Member=Component C17 1uf-1206
+Added Member To Class: ClassName=receiver 2 Member=Component C19 1uf-1206
+Added Member To Class: ClassName=receiver 2 Member=Component C21 1uf-1206

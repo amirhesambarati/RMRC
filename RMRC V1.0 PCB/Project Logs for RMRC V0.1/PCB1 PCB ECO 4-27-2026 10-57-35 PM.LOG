@@ -1,0 +1,16 @@
+Added Component: Designator=SW1(SWROT_11MM)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Alpha"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PART#"; Value = "RE111F-41B3N-15F-20P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "RotaryEncoderSwitch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ENC-A Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=ENC-B Pin=SW1-3
+Added Pin To Net: NetName=NetR54_1 Pin=SW1-4
+Added Pin To Net: NetName=GND Pin=SW1-5
+Added Pin To Net: NetName=GND Pin=SW1-SH1
+Added Pin To Net: NetName=GND Pin=SW1-SH2
+Added Member To Class: ClassName=interface Member=Component SW1 RotaryEncoderSwitch

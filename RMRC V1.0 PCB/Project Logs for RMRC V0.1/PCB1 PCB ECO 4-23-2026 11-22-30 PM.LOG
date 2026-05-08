@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=12v Pin=R1-2
+Added Pin To Net: NetName=24v Pin=R1-2
+Added Room: Name=interface
+Added Room: Name=jack driver 1
+Added Room: Name=jack driver 2
+Added Room: Name=motor driver 1
+Added Room: Name=motor driver 2
+Added Room: Name=Power
+Added Room: Name=receiver 1
+Added Room: Name=receiver 2

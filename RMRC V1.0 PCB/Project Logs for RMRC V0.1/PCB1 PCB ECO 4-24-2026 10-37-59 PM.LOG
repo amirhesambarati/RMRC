@@ -1,0 +1,240 @@
+Removed Pin From Net: NetName=NetC12_2 Pin=R12-2
+Removed Pin From Net: NetName=NetC12_2 Pin=R14-1
+Removed Pin From Net: NetName=GND Pin=R14-2
+Removed Pin From Net: NetName=NetC25_2 Pin=R111-2
+Removed Pin From Net: NetName=NetC25_2 Pin=R113-1
+Removed Pin From Net: NetName=GND Pin=R113-2
+Removed Member From Class: ClassName=receiver 1 Member=C16
+Removed Member From Class: ClassName=receiver 2 Member=C20
+Removed Member From Class: ClassName=jack driver 2 Member=C24
+Removed Member From Class: ClassName=jack driver 1 Member=R16
+Removed Member From Class: ClassName=motor driver 1 Member=R22
+Removed Member From Class: ClassName=interface Member=R59
+Removed Member From Class: ClassName=receiver 1 Member=R83
+Removed Member From Class: ClassName=jack driver 2 Member=R119
+Removed Member From Class: ClassName=jack driver 2 Member=R120
+Change Component Footprint: Designator=C12 Old Footprint=CAPC3216X180N New Footprint=CAPC2012X145N
+Change Component Footprint: Designator=C14 Old Footprint=CAPC3216X180N New Footprint=CAPC2012X145N
+Change Component Footprint: Designator=C15 Old Footprint=CAPC3216X180N New Footprint=CAPC2012X145N
+Change Component Footprint: Designator=C16 Old Footprint=CAPC3216X180N New Footprint=CAPC2012X145N
+Change Component Footprint: Designator=C25 Old Footprint=CAPC3216X180N New Footprint=CAPC2012X145N
+Change Component Footprint: Designator=C27 Old Footprint=CAPC3216X180N New Footprint=CAPC2012X145N
+Change Component Footprint: Designator=C28 Old Footprint=CAPC3216X180N New Footprint=CAPC2012X145N
+Change Component Footprint: Designator=C29 Old Footprint=CAPC3216X180N New Footprint=CAPC2012X145N
+Change Component Footprint: Designator=R12 Old Footprint=RESC3015X65N New Footprint=RESC2012X65N
+Change Component Footprint: Designator=R13 Old Footprint=RESC3015X65N New Footprint=RESC2012X65N
+Change Component Footprint: Designator=R14 Old Footprint=RESC3015X65N New Footprint=RESC2012X65N
+Change Component Footprint: Designator=R15 Old Footprint=RESC3015X65N New Footprint=RESC2012X65N
+Change Component Footprint: Designator=R111 Old Footprint=RESC3015X65N New Footprint=RESC2012X65N
+Change Component Footprint: Designator=R112 Old Footprint=RESC3015X65N New Footprint=RESC2012X65N
+Change Component Footprint: Designator=R113 Old Footprint=RESC3015X65N New Footprint=RESC2012X65N
+Change Component Footprint: Designator=R114 Old Footprint=RESC3015X65N New Footprint=RESC2012X65N
+Change Component Comment : Designator=R12 Old Comment=0 ohm-1206 New Comment=0 ohm-0805
+Change Component Comment : Designator=R13 Old Comment=0 ohm-1206 New Comment=0 ohm-0805
+Change Component Comment : Designator=R111 Old Comment=0 ohm-1206 New Comment=0 ohm-0805
+Change Component Comment : Designator=R112 Old Comment=0 ohm-1206 New Comment=0 ohm-0805
+Change Component Comment : Designator=R15 Old Comment=4.7k-1206 New Comment=4.7k -0805
+Change Component Comment : Designator=R114 Old Comment=4.7k-1206 New Comment=4.7k -0805
+Change Component Comment : Designator=C12 Old Comment=22nf-1206 New Comment=22nf -0805
+Change Component Comment : Designator=C16 Old Comment=22nf-1206 New Comment=22nf -0805
+Change Component Comment : Designator=C25 Old Comment=22nf-1206 New Comment=22nf -0805
+Change Component Comment : Designator=C29 Old Comment=22nf-1206 New Comment=22nf -0805
+Change Component Comment : Designator=C14 Old Comment=100nf-1206 New Comment=100nf -0805
+Change Component Comment : Designator=C15 Old Comment=100nf-1206 New Comment=100nf -0805
+Change Component Comment : Designator=C27 Old Comment=100nf-1206 New Comment=100nf -0805
+Change Component Comment : Designator=C28 Old Comment=100nf-1206 New Comment=100nf -0805
+Change Component Comment : Designator=R113 Old Comment=IPROPI2 New Comment=IPROPI1
+Change component parameters: Designator = "C12" ("C12"); Footprint = "CAPC3216X180N"; UniqueID = "\FTMOMCUQ" ("\FTMOMCUQ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM21BC81C226ME44L/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM21BC81C226ME44L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM21BC81C226ME44L/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "CAPC3216X180N"; UniqueID = "\UWZCBYYR" ("\UWZCBYYR")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM21BC81C226ME44L/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM21BC81C226ME44L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM21BC81C226ME44L/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "CAPC3216X180N"; UniqueID = "\KGIHSTVH" ("\KGIHSTVH")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM21BC81C226ME44L/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM21BC81C226ME44L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM21BC81C226ME44L/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "CAPC3216X180N"; UniqueID = "\CWQNDLQC" ("\CWQNDLQC")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM21BC81C226ME44L/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM21BC81C226ME44L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM21BC81C226ME44L/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "CAPC3216X180N"; UniqueID = "\MJDCCZXT" ("\MJDCCZXT")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM21BC81C226ME44L/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM21BC81C226ME44L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM21BC81C226ME44L/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C27"); Footprint = "CAPC3216X180N"; UniqueID = "\PKGWNQCW" ("\PKGWNQCW")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM21BC81C226ME44L/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM21BC81C226ME44L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM21BC81C226ME44L/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C28"); Footprint = "CAPC3216X180N"; UniqueID = "\AAIJTRRA" ("\AAIJTRRA")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM21BC81C226ME44L/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM21BC81C226ME44L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM21BC81C226ME44L/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29" ("C29"); Footprint = "CAPC3216X180N"; UniqueID = "\FUIHGMHX" ("\FUIHGMHX")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM21BC81C226ME44L/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM21BC81C226ME44L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM21BC81C226ME44L/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RESC3015X65N"; UniqueID = "\AZFDAAOV" ("\AZFDAAOV")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CRGCQ0805J470R/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CRGCQ0805J470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRGCQ0805J470R/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RESC3015X65N"; UniqueID = "\OXLWVEAQ" ("\OXLWVEAQ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CRGCQ0805J470R/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CRGCQ0805J470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRGCQ0805J470R/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "RESC3015X65N"; UniqueID = "\HJEBYDME" ("\HJEBYDME")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CRGCQ0805J470R/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CRGCQ0805J470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRGCQ0805J470R/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "RESC3015X65N"; UniqueID = "\KRSSWPJY" ("\KRSSWPJY")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CRGCQ0805J470R/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CRGCQ0805J470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRGCQ0805J470R/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R111" ("R111"); Footprint = "RESC3015X65N"; UniqueID = "\DMSCSFXF" ("\DMSCSFXF")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CRGCQ0805J470R/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CRGCQ0805J470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRGCQ0805J470R/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R112" ("R112"); Footprint = "RESC3015X65N"; UniqueID = "\HFFWNACS" ("\HFFWNACS")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CRGCQ0805J470R/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CRGCQ0805J470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRGCQ0805J470R/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R113" ("R113"); Footprint = "RESC3015X65N"; UniqueID = "\LEMCFATE" ("\LEMCFATE")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CRGCQ0805J470R/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CRGCQ0805J470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRGCQ0805J470R/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R114" ("R114"); Footprint = "RESC3015X65N"; UniqueID = "\MKHPJZGA" ("\MKHPJZGA")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CRGCQ0805J470R/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CRGCQ0805J470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRGCQ0805J470R/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC12_2 Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=NetC12_2 Pin=R14-2
+Added Pin To Net: NetName=NetC25_2 Pin=R111-1
+Added Pin To Net: NetName=GND Pin=R113-1
+Added Pin To Net: NetName=NetC25_2 Pin=R113-2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=U3-61
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR111_2 Pin=R111-2
+Added Pin To Net: NetName=NetR111_2 Pin=U3-31
+Added Net: Name=NetR111_2
+Added Member To Class: ClassName=Power Member=Component C3 470uF-16v-polymer
+Added Member To Class: ClassName=Power Member=Component C5 470uF-6.3v-polymer
+Added Member To Class: ClassName=MCU Member=Component C7 22pf-1206
+Added Member To Class: ClassName=MCU Member=Component C9 1uf-1206
+Added Member To Class: ClassName=MCU Member=Component C11 1uf-1206
+Added Member To Class: ClassName=jack driver 1 Member=Component C13 100uF-50v-polymer
+Added Member To Class: ClassName=jack driver 1 Member=Component C15 100nf -0805
+Added Member To Class: ClassName=receiver 1 Member=Component C17 1uf-1206
+Added Member To Class: ClassName=receiver 1 Member=Component C19 1uf-1206
+Added Member To Class: ClassName=receiver 2 Member=Component C21 1uf-1206
+Added Member To Class: ClassName=receiver 2 Member=Component C23 1uf-1206
+Added Member To Class: ClassName=jack driver 2 Member=Component C25 22nf -0805
+Added Member To Class: ClassName=jack driver 2 Member=Component C27 100nf -0805
+Added Member To Class: ClassName=jack driver 2 Member=Component C29 22nf -0805
+Added Member To Class: ClassName=jack driver 1 Member=Component R14 IPROPI1
+Added Member To Class: ClassName=jack driver 1 Member=Component R15 4.7k -0805
+Added Member To Class: ClassName=motor driver 1 Member=Component R17 4.7k-1206
+Added Member To Class: ClassName=motor driver 1 Member=Component R19 4.7k-1206
+Added Member To Class: ClassName=motor driver 1 Member=Component R21 4.7k-1206
+Added Member To Class: ClassName=interface Member=Component R23 300 ohm-1206
+Added Member To Class: ClassName=interface Member=Component R25 300 ohm-1206
+Added Member To Class: ClassName=interface Member=Component R27 300 ohm-1206
+Added Member To Class: ClassName=interface Member=Component R29 300 ohm-1206
+Added Member To Class: ClassName=interface Member=Component R31 4.7k-1206
+Added Member To Class: ClassName=interface Member=Component R33 4.7k-1206
+Added Member To Class: ClassName=interface Member=Component R35 4.7k-1206
+Added Member To Class: ClassName=interface Member=Component R37 4.7k-1206
+Added Member To Class: ClassName=interface Member=Component R40 300 ohm-1206
+Added Member To Class: ClassName=interface Member=Component R42 300 ohm-1206
+Added Member To Class: ClassName=interface Member=Component R44 300 ohm-1206
+Added Member To Class: ClassName=interface Member=Component R46 4.7k-1206
+Added Member To Class: ClassName=interface Member=Component R48 4.7k-1206
+Added Member To Class: ClassName=interface Member=Component R50 4.7k-1206
+Added Member To Class: ClassName=interface Member=Component R52 4.7k-1206
+Added Member To Class: ClassName=interface Member=Component R54 4.7k-1206
+Added Member To Class: ClassName=interface Member=Component R56 4.7k-1206
+Added Member To Class: ClassName=interface Member=Component R58 4.7k-1206
+Added Member To Class: ClassName=receiver 1 Member=Component R60 10k-2512
+Added Member To Class: ClassName=receiver 1 Member=Component R62 10k-2512
+Added Member To Class: ClassName=receiver 1 Member=Component R64 10k-2512
+Added Member To Class: ClassName=receiver 1 Member=Component R66 10k-2512
+Added Member To Class: ClassName=receiver 1 Member=Component R68 300 ohm-1206
+Added Member To Class: ClassName=receiver 1 Member=Component R70 4.7k-1206
+Added Member To Class: ClassName=receiver 1 Member=Component R72 10k-2512
+Added Member To Class: ClassName=receiver 1 Member=Component R74 10k-2512
+Added Member To Class: ClassName=receiver 1 Member=Component R76 10k-2512
+Added Member To Class: ClassName=receiver 1 Member=Component R78 10k-2512
+Added Member To Class: ClassName=receiver 1 Member=Component R80 300 ohm-1206
+Added Member To Class: ClassName=receiver 1 Member=Component R82 4.7k-1206
+Added Member To Class: ClassName=receiver 2 Member=Component R84 10k-2512
+Added Member To Class: ClassName=receiver 2 Member=Component R86 10k-2512
+Added Member To Class: ClassName=receiver 2 Member=Component R88 10k-2512
+Added Member To Class: ClassName=receiver 2 Member=Component R90 10k-2512
+Added Member To Class: ClassName=receiver 2 Member=Component R92 300 ohm-1206
+Added Member To Class: ClassName=receiver 2 Member=Component R94 4.7k-1206
+Added Member To Class: ClassName=receiver 2 Member=Component R96 10k-2512
+Added Member To Class: ClassName=receiver 2 Member=Component R98 10k-2512
+Added Member To Class: ClassName=receiver 2 Member=Component R100 10k-2512
+Added Member To Class: ClassName=receiver 2 Member=Component R102 10k-2512
+Added Member To Class: ClassName=receiver 2 Member=Component R103 300 ohm-1206
+Added Member To Class: ClassName=receiver 2 Member=Component R105 4.7k-1206
+Added Member To Class: ClassName=jack driver 2 Member=Component R107 4.7k-1206
+Added Member To Class: ClassName=jack driver 2 Member=Component R109 4.7k-1206
+Added Member To Class: ClassName=jack driver 2 Member=Component R111 0 ohm-0805
+Added Member To Class: ClassName=jack driver 2 Member=Component R113 IPROPI1
+Added Member To Class: ClassName=jack driver 2 Member=Component R114 4.7k -0805
+Added Member To Class: ClassName=motor driver 2 Member=Component R115 4.7k-1206
+Added Member To Class: ClassName=motor driver 2 Member=Component R116 4.7k-1206
+Added Member To Class: ClassName=motor driver 2 Member=Component R117 4.7k-1206
+Added Member To Class: ClassName=motor driver 2 Member=Component R118 4.7k-1206

@@ -1,0 +1,183 @@
+Added Component: Designator=C5(CAPC3216X180N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CGA5L3X8R1H105M160AB/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CGA5L3X8R1H105M160AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3216 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CGA5L3X8R1H105M160AB/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CGA5L3X8R1H105M160AB/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found CAPC1608X94N
+Add component: Footprint Not Found SOIC127P602X172-8N
+Add component: Footprint Not Found RESC3015X65N
+Add component: Footprint Not Found RESC3015X65N
+Add component: Footprint Not Found SW_TL3342F160QG
+Add component: Footprint Not Found SOIC127P600X175-8N
+Add component: Footprint Not Found SOIC127P600X175-8N
+Add component: Footprint Not Found XTAL_ABLS2-12.000MHZ-D4Y-T
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C15-2
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin C17-1
+Add Pin To Net: Unknown Pin: Pin C17-2
+Add Pin To Net: Unknown Pin: Pin C18-1
+Add Pin To Net: Unknown Pin: Pin C18-2
+Add Pin To Net: Unknown Pin: Pin C19-1
+Add Pin To Net: Unknown Pin: Pin C19-2
+Add Pin To Net: Unknown Pin: Pin C20-1
+Add Pin To Net: Unknown Pin: Pin C20-2
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin C22-1
+Add Pin To Net: Unknown Pin: Pin C22-2
+Add Pin To Net: Unknown Pin: Pin C23-1
+Add Pin To Net: Unknown Pin: Pin C23-2
+Add Pin To Net: Unknown Pin: Pin C24-1
+Add Pin To Net: Unknown Pin: Pin C24-2
+Add Pin To Net: Unknown Pin: Pin C25-1
+Add Pin To Net: Unknown Pin: Pin C25-2
+Add Pin To Net: Unknown Pin: Pin C26-1
+Add Pin To Net: Unknown Pin: Pin C26-2
+Add Pin To Net: Unknown Pin: Pin C27-1
+Add Pin To Net: Unknown Pin: Pin C27-2
+Add Pin To Net: Unknown Pin: Pin C28-1
+Add Pin To Net: Unknown Pin: Pin C28-2
+Add Pin To Net: Unknown Pin: Pin C29-1
+Add Pin To Net: Unknown Pin: Pin C29-2
+Add Pin To Net: Unknown Pin: Pin C30-1
+Add Pin To Net: Unknown Pin: Pin C30-2
+Add Pin To Net: Unknown Pin: Pin C31-1
+Add Pin To Net: Unknown Pin: Pin C31-2
+Add Pin To Net: Unknown Pin: Pin C32-1
+Add Pin To Net: Unknown Pin: Pin C32-2
+Add Pin To Net: Unknown Pin: Pin C34-1
+Add Pin To Net: Unknown Pin: Pin fram1-0
+Add Pin To Net: Unknown Pin: Pin fram1-1
+Add Pin To Net: Unknown Pin: Pin fram1-2
+Add Pin To Net: Unknown Pin: Pin fram1-3
+Add Pin To Net: Unknown Pin: Pin fram1-4
+Add Pin To Net: Unknown Pin: Pin fram1-5
+Add Pin To Net: Unknown Pin: Pin fram1-6
+Add Pin To Net: Unknown Pin: Pin fram1-7
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S1-3
+Add Pin To Net: Unknown Pin: Pin S1-4
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-7
+Add Pin To Net: Unknown Pin: Pin U5-8
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Net: Net with name "24v_jack" already exists
+Add Net: Net with name "CPH" already exists
+Add Net: Net with name "CPL" already exists
+Add Net: Net with name "ENC-A" already exists
+Add Net: Net with name "ENC-A" already exists
+Add Net: Net with name "ENC-A" already exists
+Add Net: Net with name "ENC-A" already exists
+Add Net: Net with name "ENC-B" already exists
+Add Net: Net with name "ENC-B" already exists
+Add Net: Net with name "ENC-B" already exists
+Add Net: Net with name "ENC-B" already exists
+Add Net: Net with name "jack_extend" already exists
+Add Net: Net with name "jack_retract" already exists
+Add Net: Net with name "Motor_NC" already exists
+Add Net: Net with name "Motor_NO" already exists
+Add Net: Net with name "Null_1" already exists
+Add Net: Net with name "VCP" already exists
+Added Member To Class: ClassName=Power Member=Component C5 1nF-1206
+Add Class Member: Failed to add class member : Component C7 22pF-0603
+Add Class Member: Failed to add class member : Component C8 22pF-0603
+Add Class Member: Failed to add class member : Component C9 1uF-0603
+Add Class Member: Failed to add class member : Component C10 1uF-0603
+Add Class Member: Failed to add class member : Component C11 1uF-0603
+Add Class Member: Failed to add class member : Component C12 1uF-0603
+Add Class Member: Failed to add class member : Component C13 10nF-0603
+Add Class Member: Failed to add class member : Component C15 100nF-50V-0603
+Add Class Member: Failed to add class member : Component C16 100nF-50V-0603
+Add Class Member: Failed to add class member : Component C17 22nF-0603
+Add Class Member: Failed to add class member : Component C18 100nF-0603
+Add Class Member: Failed to add class member : Component C19 1nF-0603
+Add Class Member: Failed to add class member : Component C20 1nF-0603
+Add Class Member: Failed to add class member : Component C21 10nF-0603
+Add Class Member: Failed to add class member : Component C22 10nF-0603
+Add Class Member: Failed to add class member : Component C23 10nF-0603
+Add Class Member: Failed to add class member : Component C24 10nF-0603
+Add Class Member: Failed to add class member : Component C25 10nF-0603
+Add Class Member: Failed to add class member : Component C26 10nF-0603
+Add Class Member: Failed to add class member : Component C27 10nF-0603
+Add Class Member: Failed to add class member : Component C28 10nF-0603
+Add Class Member: Failed to add class member : Component C29 100nF-0603
+Add Class Member: Failed to add class member : Component C30 1nF-0603
+Add Class Member: Failed to add class member : Component C31 1nF-0603
+Add Class Member: Failed to add class member : Component C32 10nF-0603
+Add Class Member: Failed to add class member : Component C34 100nF-50V-0603
+Add Class Member: Failed to add class member : Component C35 100nF-50V-0603
+Add Class Member: Failed to add class member : Component C36 22nF-0603
+Add Class Member: Failed to add class member : Component fram1 Component_1
+Add Class Member: Failed to add class member : Component R1 220k-1206
+Add Class Member: Failed to add class member : Component R2 22k-1206
+Add Class Member: Failed to add class member : Component S1 smd button
+Add Class Member: Failed to add class member : Component U5 MT9223CT-20BR5
+Add Class Member: Failed to add class member : Component U6 MT9223CT-20BR5
+Add Class Member: Failed to add class member : Component Y1 8MHZ

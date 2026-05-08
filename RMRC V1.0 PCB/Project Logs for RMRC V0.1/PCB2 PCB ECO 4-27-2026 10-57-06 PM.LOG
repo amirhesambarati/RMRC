@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=12v Pin=1-3
+Removed Pin From Net: NetName=5v Pin=1-4
+Removed Pin From Net: NetName=5v Pin=1-5
+Removed Pin From Net: NetName=5v Pin=1-6
+Removed Member From Class: ClassName=Power Member=1
+Change Component Description : Designator=J4 Old Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series New Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series | Phoenix Contact 1759020
+Change Component Description : Designator=J13 Old Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series New Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series | Phoenix Contact 1759020
+Added Pin To Net: NetName=5v Pin=U1-3

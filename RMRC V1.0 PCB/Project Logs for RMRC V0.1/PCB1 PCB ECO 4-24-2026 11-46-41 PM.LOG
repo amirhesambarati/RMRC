@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=R6 Old Footprint=RESC3015X65N New Footprint=RESC2012X65N
+Change Component Footprint: Designator=R7 Old Footprint=RESC3015X65N New Footprint=RESC2012X65N
+Change Component Comment : Designator=R6 Old Comment=4.7k-1206 New Comment=4.7k -0805
+Change Component Comment : Designator=R7 Old Comment=4.7k-1206 New Comment=4.7k -0805
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RESC3015X65N"; UniqueID = "\ITDKFVLK" ("\ITDKFVLK")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CRGCQ0805J470R/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CRGCQ0805J470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRGCQ0805J470R/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RESC3015X65N"; UniqueID = "\KBVAVLEQ" ("\KBVAVLEQ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CRGCQ0805J470R/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CRGCQ0805J470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRGCQ0805J470R/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=Netfuse 1_1 Pin=P1-???
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=JACK-1-ENC-B Pin=P4-???
+Removed Pin From Net: NetName=JACK-1-ENC-A Pin=P4-???
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=MOTOR-1-ENC-B Pin=P7-???
+Removed Pin From Net: NetName=MOTOR-1-ENC-A Pin=P7-???
+Removed Pin From Net: NetName=24v_jack2 Pin=P8-???
+Removed Pin From Net: NetName=jack_retract2 Pin=P9-???
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=JACK-2-ENC-B Pin=P10-???
+Removed Pin From Net: NetName=JACK-2-ENC-A Pin=P10-???
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=MOTOR-2-ENC-B Pin=P13-???
+Removed Pin From Net: NetName=MOTOR-2-ENC-A Pin=P13-???
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P2-2
+Add Pin To Net: Unknown Pin: Pin P3-1
+Add Pin To Net: Unknown Pin: Pin P3-2
+Add Pin To Net: Unknown Pin: Pin P4-1
+Add Pin To Net: Unknown Pin: Pin P4-2
+Add Pin To Net: Unknown Pin: Pin P5-1
+Add Pin To Net: Unknown Pin: Pin P5-2
+Add Pin To Net: Unknown Pin: Pin P6-1
+Add Pin To Net: Unknown Pin: Pin P6-2
+Add Pin To Net: Unknown Pin: Pin P7-1
+Add Pin To Net: Unknown Pin: Pin P7-2
+Add Pin To Net: Unknown Pin: Pin P8-1
+Add Pin To Net: Unknown Pin: Pin P8-2
+Add Pin To Net: Unknown Pin: Pin P9-1
+Add Pin To Net: Unknown Pin: Pin P9-2
+Add Pin To Net: Unknown Pin: Pin P10-1
+Add Pin To Net: Unknown Pin: Pin P10-2
+Add Pin To Net: Unknown Pin: Pin P11-1
+Add Pin To Net: Unknown Pin: Pin P11-2
+Add Pin To Net: Unknown Pin: Pin P12-1
+Add Pin To Net: Unknown Pin: Pin P12-2
+Add Pin To Net: Unknown Pin: Pin P13-1
+Add Pin To Net: Unknown Pin: Pin P13-2
+Add Pin To Net: Unknown Pin: Pin SW1-1
+Add Pin To Net: Unknown Pin: Pin SW1-2
+Add Pin To Net: Unknown Pin: Pin SW1-3
+Add Pin To Net: Unknown Pin: Pin SW1-4
+Add Pin To Net: Unknown Pin: Pin SW1-5
+Added Pin To Net: NetName=GND Pin=SW1-SH1
+Added Pin To Net: NetName=GND Pin=SW1-SH2
+Added Member To Class: ClassName=Power Member=Component P1 phoenix-3.81mm-2pos
+Added Member To Class: ClassName=jack driver 1 Member=Component P2 phoenix-3.81mm-2pos
+Added Member To Class: ClassName=jack driver 1 Member=Component P3 phoenix-3.81mm-2pos
+Added Member To Class: ClassName=jack driver 1 Member=Component P4 phoenix-3.81mm-2pos
+Added Member To Class: ClassName=jack driver 1 Member=Component P5 phoenix-3.81mm-2pos
+Added Member To Class: ClassName=motor driver 1 Member=Component P6 phoenix-3.81mm-2pos
+Added Member To Class: ClassName=motor driver 1 Member=Component P7 phoenix-3.81mm-2pos
+Added Member To Class: ClassName=jack driver 2 Member=Component P8 phoenix-3.81mm-2pos
+Added Member To Class: ClassName=jack driver 2 Member=Component P9 phoenix-3.81mm-2pos
+Added Member To Class: ClassName=jack driver 2 Member=Component P10 phoenix-3.81mm-2pos
+Added Member To Class: ClassName=jack driver 2 Member=Component P11 phoenix-3.81mm-2pos
+Added Member To Class: ClassName=motor driver 2 Member=Component P12 phoenix-3.81mm-2pos
+Added Member To Class: ClassName=motor driver 2 Member=Component P13 phoenix-3.81mm-2pos
+Added Member To Class: ClassName=interface Member=Component SW1 RotaryEncoderSwitch

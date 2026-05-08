@@ -1,0 +1,14 @@
+Change Net Name : Old Net Name=Motor_NC New Net Name=Motor1_NC
+Change Net Name : Old Net Name=Motor_NO New Net Name=Motor1_NO
+Added Pin To Net: NetName=Motor2_NC Pin=J13-01
+Added Pin To Net: NetName=Motor2_NC Pin=K3-3
+Added Net: Name=Motor2_NC
+Added Pin To Net: NetName=Motor2_NO Pin=J13-03
+Added Pin To Net: NetName=Motor2_NO Pin=K4-3
+Added Net: Name=Motor2_NO
+Added Room: Name=jack driver 1
+Added Room: Name=jack driver 2
+Added Room: Name=motor driver 1
+Added Room: Name=motor driver 2
+Added Room: Name=receiver 1
+Added Room: Name=receiver 2

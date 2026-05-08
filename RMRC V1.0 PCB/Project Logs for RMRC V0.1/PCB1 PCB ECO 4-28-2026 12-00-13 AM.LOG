@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=U4-17
+Removed Pin From Net: NetName=GND Pin=U13-17
+Added Component: Designator=2(PCBComponent_1)
+Added Pin To Net: NetName=Net2_1 Pin=2-1
+Added Pin To Net: NetName=Net2_1 Pin=2-2
+Added Pin To Net: NetName=Net2_1 Pin=2-3
+Added Pin To Net: NetName=5v Pin=2-4
+Added Pin To Net: NetName=3.3v Pin=2-6
+Added Member To Class: ClassName=MCU Member=Component 2 3way jumper

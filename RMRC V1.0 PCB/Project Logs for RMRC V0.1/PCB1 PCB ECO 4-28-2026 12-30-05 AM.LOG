@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=5v Pin=P5-2
+Removed Pin From Net: NetName=5v Pin=P6-2
+Removed Pin From Net: NetName=5v Pin=P11-2
+Removed Pin From Net: NetName=5v Pin=P12-2
+Added Component: Designator=JP?(HDRLP_F_1X3)
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRF3"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(HDRLP_F_1X3)
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRF3"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(HDRLP_F_1X3)
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRF3"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(HDRLP_F_1X3)
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRF3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5v Pin=JP?-1
+Added Pin To Net: NetName=5v Pin=JP?-1
+Added Pin To Net: NetName=5v Pin=JP?-1
+Added Pin To Net: NetName=5v Pin=JP?-1
+Added Pin To Net: NetName=12v Pin=JP?-3
+Added Pin To Net: NetName=12v Pin=JP?-3
+Added Pin To Net: NetName=12v Pin=JP?-3
+Added Pin To Net: NetName=12v Pin=JP?-3
+Added Pin To Net: NetName=power_ENC_1 Pin=JP?-2
+Added Pin To Net: NetName=power_ENC_1 Pin=P6-2
+Added Net: Name=power_ENC_1
+Added Pin To Net: NetName=power_ENC_2 Pin=JP?-2
+Added Pin To Net: NetName=power_ENC_2 Pin=P12-2
+Added Net: Name=power_ENC_2
+Added Pin To Net: NetName=power_ENC_3 Pin=JP?-2
+Added Pin To Net: NetName=power_ENC_3 Pin=P5-2
+Added Net: Name=power_ENC_3
+Added Pin To Net: NetName=power_ENC_4 Pin=JP?-2
+Added Pin To Net: NetName=power_ENC_4 Pin=P11-2
+Added Net: Name=power_ENC_4
+Added Member To Class: ClassName=jack driver 1 Member=Component JP? HDRF3
+Added Member To Class: ClassName=jack driver 2 Member=Component JP? HDRF3
+Added Member To Class: ClassName=motor driver 1 Member=Component JP? HDRF3
+Added Member To Class: ClassName=motor driver 2 Member=Component JP? HDRF3

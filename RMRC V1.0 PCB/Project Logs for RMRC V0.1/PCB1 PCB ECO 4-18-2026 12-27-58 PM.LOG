@@ -1,0 +1,185 @@
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=5v Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=C30-1
+Removed Pin From Net: NetName=5v Pin=C30-2
+Removed Pin From Net: NetName=GND Pin=C31-2
+Removed Pin From Net: NetName=GND Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=R21-1
+Removed Pin From Net: NetName=GND Pin=R98-1
+Removed Member From Class: ClassName=MCU Member=C14
+Removed Member From Class: ClassName=jack driver 1 Member=C20
+Removed Member From Class: ClassName=motor driver 1 Member=C20
+Removed Member From Class: ClassName=motor driver 1 Member=C26
+Removed Member From Class: ClassName=receiver 1 Member=C26
+Removed Member From Class: ClassName=motor driver 2 Member=C31
+Removed Member From Class: ClassName=receiver 2 Member=C31
+Removed Member From Class: ClassName=motor driver 2 Member=C36
+Removed Member From Class: ClassName=jack driver 1 Member=R6
+Removed Member From Class: ClassName=motor driver 1 Member=R13
+Removed Member From Class: ClassName=interface Member=R21
+Removed Member From Class: ClassName=motor driver 1 Member=R21
+Removed Member From Class: ClassName=receiver 2 Member=R66
+Removed Member From Class: ClassName=motor driver 2 Member=R90
+Removed Member From Class: ClassName=jack driver 2 Member=R98
+Removed Member From Class: ClassName=motor driver 2 Member=R98
+Change Component Description : Designator=J4 Old Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series New Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series | Phoenix Contact 1759020
+Change Component Description : Designator=J21 Old Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series New Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series | Phoenix Contact 1759020
+Change Component Description : Designator=K1 Old Description=RELAY GEN PURPOSE SPDT 10A 12V New Description=RELAY GEN PURPOSE SPDT 10A 12V | Panasonic Electronic Components ALQ112
+Change Component Description : Designator=K2 Old Description=RELAY GEN PURPOSE SPDT 10A 12V New Description=RELAY GEN PURPOSE SPDT 10A 12V | Panasonic Electronic Components ALQ112
+Change Component Description : Designator=K3 Old Description=RELAY GEN PURPOSE SPDT 10A 12V New Description=RELAY GEN PURPOSE SPDT 10A 12V | Panasonic Electronic Components ALQ112
+Change Component Description : Designator=K4 Old Description=RELAY GEN PURPOSE SPDT 10A 12V New Description=RELAY GEN PURPOSE SPDT 10A 12V | Panasonic Electronic Components ALQ112
+Change Component Description : Designator=R3 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R4 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R5 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R6 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R7 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R8 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R9 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R10 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R11 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R12 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R13 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R14 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R15 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R16 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R17 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R18 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R19 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R22 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R23 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R24 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R25 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R26 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R27 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R28 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R29 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R30 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R31 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R32 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R33 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R34 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R35 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R36 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R37 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R38 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R39 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R40 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R41 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R42 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R51 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R52 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R53 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R54 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R63 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R64 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R65 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R66 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R75 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R76 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R77 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R78 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R87 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R88 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R89 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R90 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R91 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R92 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R93 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R94 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R95 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R96 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R99 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R100 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R101 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R102 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R103 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R104 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=R105 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=RIPROPI1 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=RIPROPI2 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Add Net: Net with name "24v_jack" already exists
+Add Net: Net with name "CPH" already exists
+Add Net: Net with name "CPL" already exists
+Add Net: Net with name "ENC-A" already exists
+Add Net: Net with name "ENC-A" already exists
+Add Net: Net with name "ENC-A" already exists
+Add Net: Net with name "ENC-A" already exists
+Add Net: Net with name "ENC-B" already exists
+Add Net: Net with name "ENC-B" already exists
+Add Net: Net with name "ENC-B" already exists
+Add Net: Net with name "ENC-B" already exists
+Add Net: Net with name "jack_extend" already exists
+Add Net: Net with name "jack_retract" already exists
+Add Net: Net with name "Motor_NC" already exists
+Add Net: Net with name "Motor_NO" already exists
+Added Pin To Net: NetName=NetU3_43 Pin=U3-43
+Added Net: Name=NetU3_43
+Add Net: Net with name "Null_1" already exists
+Add Net: Net with name "VCP" already exists
+Added Member To Class: ClassName=MCU Member=Component C12 1uF-0603
+Added Member To Class: ClassName=MCU Member=Component C13 1uF-0603
+Added Member To Class: ClassName=jack driver 1 Member=Component C15 100uF-50v-polymer
+Added Member To Class: ClassName=jack driver 1 Member=Component C17 100nF-50V-0603
+Added Member To Class: ClassName=jack driver 1 Member=Component C18 22nF-0603
+Added Member To Class: ClassName=receiver 1 Member=Component C22 10nF-0603
+Added Member To Class: ClassName=receiver 1 Member=Component C23 10nF-0603
+Added Member To Class: ClassName=receiver 1 Member=Component C24 10nF-0603
+Added Member To Class: ClassName=receiver 1 Member=Component C25 10nF-0603
+Added Member To Class: ClassName=receiver 2 Member=Component C27 10nF-0603
+Added Member To Class: ClassName=receiver 2 Member=Component C28 10nF-0603
+Added Member To Class: ClassName=receiver 2 Member=Component C29 10nF-0603
+Added Member To Class: ClassName=jack driver 2 Member=Component C33 10nF-0603
+Added Member To Class: ClassName=jack driver 2 Member=Component C34 100uF-50v-polymer
+Added Member To Class: ClassName=jack driver 2 Member=Component C35 100nF-50V-0603
+Added Member To Class: ClassName=MCU Member=Component R5 4.7k-0603
+Added Member To Class: ClassName=MCU Member=Component R6 4.7k-0603
+Added Member To Class: ClassName=jack driver 1 Member=Component R7 10k-0603
+Added Member To Class: ClassName=jack driver 1 Member=Component R8 10k-0603
+Added Member To Class: ClassName=jack driver 1 Member=Component R10 10k-0603
+Added Member To Class: ClassName=jack driver 1 Member=Component R12 0 ohm-0603
+Added Member To Class: ClassName=motor driver 1 Member=Component R14 10k-0603
+Added Member To Class: ClassName=motor driver 1 Member=Component R16 10k-0603
+Added Member To Class: ClassName=motor driver 1 Member=Component R18 4.7k-0603
+Added Member To Class: ClassName=interface Member=Component R22 220-0603
+Added Member To Class: ClassName=interface Member=Component R24 220-0603
+Added Member To Class: ClassName=interface Member=Component R26 220-0603
+Added Member To Class: ClassName=interface Member=Component R28 220-0603
+Added Member To Class: ClassName=interface Member=Component R30 10k-0603
+Added Member To Class: ClassName=interface Member=Component R32 10k-0603
+Added Member To Class: ClassName=interface Member=Component R34 10k-0603
+Added Member To Class: ClassName=interface Member=Component R36 10k-0603
+Added Member To Class: ClassName=interface Member=Component R38 10k-0603
+Added Member To Class: ClassName=interface Member=Component R40 10k-0603
+Added Member To Class: ClassName=interface Member=Component R42 10k-0603
+Added Member To Class: ClassName=receiver 1 Member=Component R46 10k-2512
+Added Member To Class: ClassName=receiver 1 Member=Component R48 10k-2512
+Added Member To Class: ClassName=receiver 1 Member=Component R51 4.7k-0603
+Added Member To Class: ClassName=receiver 1 Member=Component R53 4.7k-0603
+Added Member To Class: ClassName=receiver 1 Member=Component R55 10k-2512
+Added Member To Class: ClassName=receiver 1 Member=Component R57 10k-2512
+Added Member To Class: ClassName=receiver 1 Member=Component R59 10k-2512
+Added Member To Class: ClassName=receiver 1 Member=Component R61 10k-2512
+Added Member To Class: ClassName=receiver 1 Member=Component R63 4.7k-0603
+Added Member To Class: ClassName=receiver 1 Member=Component R65 4.7k-0603
+Added Member To Class: ClassName=receiver 2 Member=Component R67 10k-2512
+Added Member To Class: ClassName=receiver 2 Member=Component R69 10k-2512
+Added Member To Class: ClassName=receiver 2 Member=Component R71 10k-2512
+Added Member To Class: ClassName=receiver 2 Member=Component R73 10k-2512
+Added Member To Class: ClassName=receiver 2 Member=Component R75 4.7k-0603
+Added Member To Class: ClassName=receiver 2 Member=Component R77 4.7k-0603
+Added Member To Class: ClassName=receiver 2 Member=Component R79 10k-2512
+Added Member To Class: ClassName=receiver 2 Member=Component R81 10k-2512
+Added Member To Class: ClassName=receiver 2 Member=Component R83 10k-2512
+Added Member To Class: ClassName=receiver 2 Member=Component R85 10k-2512
+Added Member To Class: ClassName=receiver 2 Member=Component R87 4.7k-0603
+Added Member To Class: ClassName=receiver 2 Member=Component R89 4.7k-0603
+Added Member To Class: ClassName=motor driver 2 Member=Component R91 10k-0603
+Added Member To Class: ClassName=motor driver 2 Member=Component R93 10k-0603
+Added Member To Class: ClassName=motor driver 2 Member=Component R95 4.7k-0603
+Added Member To Class: ClassName=jack driver 2 Member=Component R99 10k-0603
+Added Member To Class: ClassName=jack driver 2 Member=Component R101 10k-0603
+Added Member To Class: ClassName=jack driver 2 Member=Component R103 0 ohm-0603
+Added Member To Class: ClassName=jack driver 2 Member=Component R105 10k-0603
+Added Room: Name=MCU

@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=receiver 1 Member=D28
+Removed Member From Class: ClassName=receiver 1 Member=D29
+Change Component Designator: OldDesignator=U? NewDesignator=U15
+Add component: Footprint Not Found DPAK_3
+Added Member To Class: ClassName=jack driver 1 Member=Component C15 100nf-1206
+Added Member To Class: ClassName=jack driver 1 Member=Component C17 22nf-1206
+Added Member To Class: ClassName=receiver 1 Member=Component C19 1uf-1206
+Added Member To Class: ClassName=receiver 1 Member=Component C21 1uf-1206
+Added Member To Class: ClassName=receiver 2 Member=Component C23 1uf-1206
+Added Member To Class: ClassName=receiver 2 Member=Component C25 1uf-1206
+Added Member To Class: ClassName=jack driver 2 Member=Component C27 100uF-50v-polymer
+Added Member To Class: ClassName=jack driver 2 Member=Component C29 100nf-1206
+Added Member To Class: ClassName=receiver 1 Member=Component D20 led-red-1206
+Added Member To Class: ClassName=receiver 1 Member=Component D21 led-red-1206
+Add Class Member: Failed to add class member : Component U14 AP7363

@@ -1,0 +1,35 @@
+Add component: Footprint Not Found SOIC127P600X175-8N
+Add component: Footprint Not Found SOIC127P600X175-8N
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-7
+Add Pin To Net: Unknown Pin: Pin U5-8
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Net: Net with name "24v_jack" already exists
+Add Net: Net with name "CPH" already exists
+Add Net: Net with name "CPL" already exists
+Add Net: Net with name "ENC-A" already exists
+Add Net: Net with name "ENC-A" already exists
+Add Net: Net with name "ENC-A" already exists
+Add Net: Net with name "ENC-A" already exists
+Add Net: Net with name "ENC-B" already exists
+Add Net: Net with name "ENC-B" already exists
+Add Net: Net with name "ENC-B" already exists
+Add Net: Net with name "ENC-B" already exists
+Add Net: Net with name "jack_extend" already exists
+Add Net: Net with name "jack_retract" already exists
+Add Net: Net with name "Motor_NC" already exists
+Add Net: Net with name "Motor_NO" already exists
+Add Net: Net with name "Null_1" already exists
+Add Net: Net with name "VCP" already exists
+Add Class Member: Failed to add class member : Component U5 MT9223CT-20BR5
+Add Class Member: Failed to add class member : Component U6 MT9223CT-20BR5

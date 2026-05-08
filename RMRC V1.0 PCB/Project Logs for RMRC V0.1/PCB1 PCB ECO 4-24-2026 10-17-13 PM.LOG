@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=jack_retract1 Pin=P3-1
+Removed Pin From Net: NetName=jack_extend1 Pin=P3-2
+Removed Pin From Net: NetName=jack_retract2 Pin=P9-1
+Removed Pin From Net: NetName=jack_extend2 Pin=P9-2
+Removed Pin From Net: NetName=3.3v Pin=U4-3
+Removed Pin From Net: NetName=GND Pin=U4-17
+Removed Pin From Net: NetName=3.3v Pin=U13-3
+Removed Pin From Net: NetName=GND Pin=U13-17
+Added Pin To Net: NetName=jack_extend1 Pin=P3-1
+Added Pin To Net: NetName=jack_retract1 Pin=P3-2
+Added Pin To Net: NetName=jack_extend2 Pin=P9-1
+Added Pin To Net: NetName=jack_retract2 Pin=P9-2
+Added Pin To Net: NetName=NetU3_16 Pin=U3-16
+Added Pin To Net: NetName=NetU3_16 Pin=U13-3
+Added Net: Name=NetU3_16
+Added Pin To Net: NetName=NetU3_38 Pin=U3-38
+Added Pin To Net: NetName=NetU3_38 Pin=U4-3
+Added Net: Name=NetU3_38

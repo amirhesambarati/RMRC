@@ -1,0 +1,21 @@
+Add Net: Net with name "24v_jack" already exists
+Add Net: Net with name "CPH" already exists
+Add Net: Net with name "CPL" already exists
+Add Net: Net with name "ENC-A" already exists
+Add Net: Net with name "ENC-A" already exists
+Add Net: Net with name "ENC-A" already exists
+Add Net: Net with name "ENC-A" already exists
+Add Net: Net with name "ENC-B" already exists
+Add Net: Net with name "ENC-B" already exists
+Add Net: Net with name "ENC-B" already exists
+Add Net: Net with name "ENC-B" already exists
+Add Net: Net with name "jack_extend" already exists
+Add Net: Net with name "jack_retract" already exists
+Add Net: Net with name "Motor_NC" already exists
+Add Net: Net with name "Motor_NO" already exists
+Add Net: Net with name "VCP" already exists
+Added Room: Name=jack driver 1
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=receiver 1
+Added Room: Name=receiver 2

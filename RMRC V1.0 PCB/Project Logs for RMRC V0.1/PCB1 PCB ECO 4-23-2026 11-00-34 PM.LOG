@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=D1 Old Footprint=WL-SMRW_1206 dome_reverse use New Footprint=WL-SMRW_1206 dome_normal use
+Change Component Designator: OldDesignator=fram1 NewDesignator=EEPROM
+Change Component Description : Designator=J4 Old Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series New Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series | Phoenix Contact 1759020
+Change Component Description : Designator=J13 Old Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series New Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series | Phoenix Contact 1759020
+Change Component Description : Designator=RIPROPI1 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Change Component Description : Designator=RIPROPI2 Old Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC New Description=Resistor, Thick Film, 0603 Case, 100Ohm +/-5% 0.2W +/-200ppm/degC | TE Connectivity CRGH0603J100R
+Added Room: Name=interface
+Added Room: Name=jack driver 1
+Added Room: Name=jack driver 2
+Added Room: Name=motor driver 1
+Added Room: Name=motor driver 2
+Added Room: Name=Power
+Added Room: Name=receiver 1
+Added Room: Name=receiver 2

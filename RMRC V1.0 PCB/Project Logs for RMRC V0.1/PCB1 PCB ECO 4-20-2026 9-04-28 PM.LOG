@@ -1,0 +1,224 @@
+Removed Pin From Net: NetName=12v Pin=K1-1
+Removed Pin From Net: NetName=NetD1_A Pin=K1-2
+Removed Pin From Net: NetName=NetJ1_2 Pin=K1-3
+Removed Pin From Net: NetName=Motor_NC Pin=K1-5
+Removed Pin From Net: NetName=12v Pin=K2-1
+Removed Pin From Net: NetName=NetD2_A Pin=K2-2
+Removed Pin From Net: NetName=NetJ1_2 Pin=K2-3
+Removed Pin From Net: NetName=Motor_NO Pin=K2-5
+Removed Pin From Net: NetName=12v Pin=K3-1
+Removed Pin From Net: NetName=NetD11_A Pin=K3-2
+Removed Pin From Net: NetName=NetJ1_2 Pin=K3-3
+Removed Pin From Net: NetName=12v Pin=K4-1
+Removed Pin From Net: NetName=NetD12_A Pin=K4-2
+Removed Pin From Net: NetName=NetJ1_2 Pin=K4-3
+Change Component Footprint: Designator=K1 Old Footprint=RELAY_ALQ112 New Footprint=REL_SPDT_5_1512
+Change Component Footprint: Designator=K2 Old Footprint=RELAY_ALQ112 New Footprint=REL_SPDT_5_1512
+Change Component Footprint: Designator=K3 Old Footprint=RELAY_ALQ112 New Footprint=REL_SPDT_5_1512
+Change Component Footprint: Designator=K4 Old Footprint=RELAY_ALQ112 New Footprint=REL_SPDT_5_1512
+Change Component Comment : Designator=K1 Old Comment=G5Q-14-DC5 New Comment=RELAY_SPDT
+Change Component Comment : Designator=K2 Old Comment=G5Q-14-DC5 New Comment=RELAY_SPDT
+Change Component Comment : Designator=K3 Old Comment=G5Q-14-DC5 New Comment=RELAY_SPDT
+Change Component Comment : Designator=K4 Old Comment=G5Q-14-DC5 New Comment=RELAY_SPDT
+Change Component Designator: OldDesignator=C22 NewDesignator=C19
+Change Component Designator: OldDesignator=C23 NewDesignator=C20
+Change Component Designator: OldDesignator=C24 NewDesignator=C21
+Change Component Designator: OldDesignator=C25 NewDesignator=C22
+Change Component Designator: OldDesignator=C26 NewDesignator=C23
+Change Component Designator: OldDesignator=C27 NewDesignator=C24
+Change Component Designator: OldDesignator=C28 NewDesignator=C25
+Change Component Designator: OldDesignator=C29 NewDesignator=C26
+Change Component Designator: OldDesignator=C33 NewDesignator=C27
+Change Component Designator: OldDesignator=C34 NewDesignator=C28
+Change Component Designator: OldDesignator=C35 NewDesignator=C29
+Change Component Designator: OldDesignator=C36 NewDesignator=C30
+Change Component Designator: OldDesignator=C37 NewDesignator=C31
+Change Component Designator: OldDesignator=R22 NewDesignator=R20
+Change Component Designator: OldDesignator=R23 NewDesignator=R21
+Change Component Designator: OldDesignator=R24 NewDesignator=R22
+Change Component Designator: OldDesignator=R25 NewDesignator=R23
+Change Component Designator: OldDesignator=R26 NewDesignator=R24
+Change Component Designator: OldDesignator=R27 NewDesignator=R25
+Change Component Designator: OldDesignator=R28 NewDesignator=R26
+Change Component Designator: OldDesignator=R29 NewDesignator=R27
+Change Component Designator: OldDesignator=R30 NewDesignator=R28
+Change Component Designator: OldDesignator=R31 NewDesignator=R29
+Change Component Designator: OldDesignator=R32 NewDesignator=R30
+Change Component Designator: OldDesignator=R33 NewDesignator=R31
+Change Component Designator: OldDesignator=R34 NewDesignator=R32
+Change Component Designator: OldDesignator=R35 NewDesignator=R33
+Change Component Designator: OldDesignator=R36 NewDesignator=R34
+Change Component Designator: OldDesignator=R37 NewDesignator=R35
+Change Component Designator: OldDesignator=R38 NewDesignator=R36
+Change Component Designator: OldDesignator=R39 NewDesignator=R37
+Change Component Designator: OldDesignator=R40 NewDesignator=R38
+Change Component Designator: OldDesignator=R41 NewDesignator=R39
+Change Component Designator: OldDesignator=R42 NewDesignator=R40
+Change Component Designator: OldDesignator=R43 NewDesignator=R41
+Change Component Designator: OldDesignator=R44 NewDesignator=R42
+Change Component Designator: OldDesignator=R45 NewDesignator=R43
+Change Component Designator: OldDesignator=R46 NewDesignator=R44
+Change Component Designator: OldDesignator=R47 NewDesignator=R45
+Change Component Designator: OldDesignator=R48 NewDesignator=R46
+Change Component Designator: OldDesignator=R49 NewDesignator=R47
+Change Component Designator: OldDesignator=R50 NewDesignator=R48
+Change Component Designator: OldDesignator=R51 NewDesignator=R49
+Change Component Designator: OldDesignator=R52 NewDesignator=R50
+Change Component Designator: OldDesignator=R53 NewDesignator=R51
+Change Component Designator: OldDesignator=R54 NewDesignator=R52
+Change Component Designator: OldDesignator=R55 NewDesignator=R53
+Change Component Designator: OldDesignator=R56 NewDesignator=R54
+Change Component Designator: OldDesignator=R57 NewDesignator=R55
+Change Component Designator: OldDesignator=R58 NewDesignator=R56
+Change Component Designator: OldDesignator=R59 NewDesignator=R57
+Change Component Designator: OldDesignator=R60 NewDesignator=R58
+Change Component Designator: OldDesignator=R61 NewDesignator=R59
+Change Component Designator: OldDesignator=R62 NewDesignator=R60
+Change Component Designator: OldDesignator=R63 NewDesignator=R61
+Change Component Designator: OldDesignator=R64 NewDesignator=R62
+Change Component Designator: OldDesignator=R65 NewDesignator=R63
+Change Component Designator: OldDesignator=R66 NewDesignator=R64
+Change Component Designator: OldDesignator=R67 NewDesignator=R65
+Change Component Designator: OldDesignator=R68 NewDesignator=R66
+Change Component Designator: OldDesignator=R69 NewDesignator=R67
+Change Component Designator: OldDesignator=R70 NewDesignator=R68
+Change Component Designator: OldDesignator=R71 NewDesignator=R69
+Change Component Designator: OldDesignator=R72 NewDesignator=R70
+Change Component Designator: OldDesignator=R73 NewDesignator=R71
+Change Component Designator: OldDesignator=R74 NewDesignator=R72
+Change Component Designator: OldDesignator=R75 NewDesignator=R73
+Change Component Designator: OldDesignator=R76 NewDesignator=R74
+Change Component Designator: OldDesignator=R77 NewDesignator=R75
+Change Component Designator: OldDesignator=R78 NewDesignator=R76
+Change Component Designator: OldDesignator=R79 NewDesignator=R77
+Change Component Designator: OldDesignator=R80 NewDesignator=R78
+Change Component Designator: OldDesignator=R81 NewDesignator=R79
+Change Component Designator: OldDesignator=R82 NewDesignator=R80
+Change Component Designator: OldDesignator=R83 NewDesignator=R81
+Change Component Designator: OldDesignator=R84 NewDesignator=R82
+Change Component Designator: OldDesignator=R85 NewDesignator=R83
+Change Component Designator: OldDesignator=R86 NewDesignator=R84
+Change Component Designator: OldDesignator=R87 NewDesignator=R85
+Change Component Designator: OldDesignator=R88 NewDesignator=R86
+Change Component Designator: OldDesignator=R89 NewDesignator=R87
+Change Component Designator: OldDesignator=R90 NewDesignator=R88
+Change Component Designator: OldDesignator=R91 NewDesignator=R89
+Change Component Designator: OldDesignator=R92 NewDesignator=R90
+Change Component Designator: OldDesignator=R93 NewDesignator=R91
+Change Component Designator: OldDesignator=R94 NewDesignator=R92
+Change Component Designator: OldDesignator=R95 NewDesignator=R93
+Change Component Designator: OldDesignator=R96 NewDesignator=R94
+Change Component Designator: OldDesignator=R99 NewDesignator=R95
+Change Component Designator: OldDesignator=R100 NewDesignator=R96
+Change Component Designator: OldDesignator=R101 NewDesignator=R97
+Change Component Designator: OldDesignator=R102 NewDesignator=R98
+Change Component Designator: OldDesignator=R103 NewDesignator=R99
+Change Component Designator: OldDesignator=R104 NewDesignator=R100
+Change Component Designator: OldDesignator=R105 NewDesignator=R101
+Change Component Designator: OldDesignator=U7 NewDesignator=U5
+Change component parameters: Designator = "K1" ("K1"); Footprint = "RELAY_ALQ112"; UniqueID = "\RPGBWBTZ" ("\RPGBWBTZ")
+Change component parameters (AddParameter): Name = "MANF"; Value = "OMRON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "G8QN-1C4 DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = "12V, 50mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "16VDC, 30A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "RELAY_SPDT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K2" ("K2"); Footprint = "RELAY_ALQ112"; UniqueID = "\HJBLIKMA" ("\HJBLIKMA")
+Change component parameters (AddParameter): Name = "MANF"; Value = "OMRON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "G8QN-1C4 DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = "12V, 50mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "16VDC, 30A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "RELAY_SPDT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K3" ("K3"); Footprint = "RELAY_ALQ112"; UniqueID = "\UJROKZWY" ("\UJROKZWY")
+Change component parameters (AddParameter): Name = "MANF"; Value = "OMRON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "G8QN-1C4 DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = "12V, 50mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "16VDC, 30A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "RELAY_SPDT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K4" ("K4"); Footprint = "RELAY_ALQ112"; UniqueID = "\WZKKASNA" ("\WZKKASNA")
+Change component parameters (AddParameter): Name = "MANF"; Value = "OMRON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "G8QN-1C4 DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = "12V, 50mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "16VDC, 30A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "RELAY_SPDT"; VariantName = "[No Variations]"
+Added Component: Designator=U?(DIP_4SMD)
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = "DIP-4SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "IF=5mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "VCE = 5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "300t@Paya"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "EL817"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_2 Pin=K1-1
+Added Pin To Net: NetName=Motor_NC Pin=K1-3
+Added Pin To Net: NetName=12v Pin=K1-4
+Added Pin To Net: NetName=NetD1_A Pin=K1-5
+Added Pin To Net: NetName=NetJ1_2 Pin=K2-1
+Added Pin To Net: NetName=Motor_NO Pin=K2-3
+Added Pin To Net: NetName=12v Pin=K2-4
+Added Pin To Net: NetName=NetD2_A Pin=K2-5
+Added Pin To Net: NetName=NetJ1_2 Pin=K3-1
+Added Pin To Net: NetName=12v Pin=K3-4
+Added Pin To Net: NetName=NetD11_A Pin=K3-5
+Added Pin To Net: NetName=NetJ1_2 Pin=K4-1
+Added Pin To Net: NetName=12v Pin=K4-4
+Added Pin To Net: NetName=NetD12_A Pin=K4-5
+Change Net Name : Old Net Name=NetC22_1 New Net Name=NetC19_1
+Change Net Name : Old Net Name=NetC22_2 New Net Name=NetC19_2
+Change Net Name : Old Net Name=NetC23_1 New Net Name=NetC20_1
+Change Net Name : Old Net Name=NetC23_2 New Net Name=NetC20_2
+Change Net Name : Old Net Name=NetC24_1 New Net Name=NetC21_1
+Change Net Name : Old Net Name=NetC24_2 New Net Name=NetC21_2
+Change Net Name : Old Net Name=NetC25_1 New Net Name=NetC22_1
+Change Net Name : Old Net Name=NetC25_2 New Net Name=NetC22_2
+Change Net Name : Old Net Name=NetC26_1 New Net Name=NetC23_1
+Change Net Name : Old Net Name=NetC27_1 New Net Name=NetC24_1
+Change Net Name : Old Net Name=NetC28_1 New Net Name=NetC25_1
+Change Net Name : Old Net Name=NetC29_1 New Net Name=NetC26_1
+Change Net Name : Old Net Name=NetC33_1 New Net Name=NetC27_1
+Change Net Name : Old Net Name=NetR30_2 New Net Name=NetR28_2
+Change Net Name : Old Net Name=NetR31_2 New Net Name=NetR29_2
+Change Net Name : Old Net Name=NetR32_2 New Net Name=NetR30_2
+Change Net Name : Old Net Name=NetR33_2 New Net Name=NetR31_2
+Change Net Name : Old Net Name=NetR34_2 New Net Name=NetR32_2
+Change Net Name : Old Net Name=NetR35_2 New Net Name=NetR33_2
+Change Net Name : Old Net Name=NetR36_2 New Net Name=NetR34_2
+Change Net Name : Old Net Name=NetR37_2 New Net Name=NetR35_2
+Change Net Name : Old Net Name=NetR38_2 New Net Name=NetR36_2
+Change Net Name : Old Net Name=NetR43_2 New Net Name=NetR41_2
+Change Net Name : Old Net Name=NetR45_2 New Net Name=NetR43_2
+Change Net Name : Old Net Name=NetR47_2 New Net Name=NetR45_2
+Change Net Name : Old Net Name=NetR49_2 New Net Name=NetR47_2
+Change Net Name : Old Net Name=NetR55_2 New Net Name=NetR53_2
+Change Net Name : Old Net Name=NetR57_2 New Net Name=NetR55_2
+Change Net Name : Old Net Name=NetR59_2 New Net Name=NetR57_2
+Change Net Name : Old Net Name=NetR61_2 New Net Name=NetR59_2
+Change Net Name : Old Net Name=NetR67_2 New Net Name=NetR65_2
+Change Net Name : Old Net Name=NetR69_2 New Net Name=NetR67_2
+Change Net Name : Old Net Name=NetR71_2 New Net Name=NetR69_2
+Change Net Name : Old Net Name=NetR73_2 New Net Name=NetR71_2
+Change Net Name : Old Net Name=NetR79_2 New Net Name=NetR77_2
+Change Net Name : Old Net Name=NetR81_2 New Net Name=NetR79_2
+Change Net Name : Old Net Name=NetR83_2 New Net Name=NetR81_2
+Change Net Name : Old Net Name=NetR85_2 New Net Name=NetR83_2
+Change Net Name : Old Net Name=NetR104_1 New Net Name=NetR100_1
+Add Net: Net with name "24v_jack" already exists
+Add Net: Net with name "CPH" already exists
+Add Net: Net with name "CPL" already exists
+Add Net: Net with name "ENC-A" already exists
+Add Net: Net with name "ENC-A" already exists
+Add Net: Net with name "ENC-A" already exists
+Add Net: Net with name "ENC-A" already exists
+Add Net: Net with name "ENC-B" already exists
+Add Net: Net with name "ENC-B" already exists
+Add Net: Net with name "ENC-B" already exists
+Add Net: Net with name "ENC-B" already exists
+Add Net: Net with name "jack_extend" already exists
+Add Net: Net with name "jack_retract" already exists
+Add Net: Net with name "Motor_NC" already exists
+Add Net: Net with name "Motor_NO" already exists
+Add Net: Net with name "VCP" already exists
+Added Member To Class: ClassName=receiver 1 Member=Component U? EL817

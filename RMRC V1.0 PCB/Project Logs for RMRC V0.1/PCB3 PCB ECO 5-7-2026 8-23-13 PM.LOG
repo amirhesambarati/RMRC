@@ -1,0 +1,98 @@
+Removed Member From Class: ClassName=jack driver 2 Member=C17
+Removed Member From Class: ClassName=jack driver 1 Member=D18
+Removed Member From Class: ClassName=motor driver 1 Member=D18
+Removed Member From Class: ClassName=jack driver 1 Member=D21
+Removed Member From Class: ClassName=motor driver 1 Member=D21
+Removed Member From Class: ClassName=receiver 1 Member=D32
+Removed Member From Class: ClassName=receiver 2 Member=D32
+Removed Member From Class: ClassName=receiver 1 Member=D33
+Removed Member From Class: ClassName=receiver 2 Member=D33
+Removed Member From Class: ClassName=jack driver 1 Member=K7
+Removed Member From Class: ClassName=motor driver 1 Member=K7
+Removed Member From Class: ClassName=jack driver 1 Member=K8
+Removed Member From Class: ClassName=motor driver 1 Member=K8
+Removed Member From Class: ClassName=jack driver 1 Member=Q21
+Removed Member From Class: ClassName=motor driver 1 Member=Q21
+Removed Member From Class: ClassName=interface Member=Q31
+Removed Member From Class: ClassName=jack driver 2 Member=Q31
+Removed Member From Class: ClassName=interface Member=Q32
+Removed Member From Class: ClassName=jack driver 1 Member=Q32
+Removed Member From Class: ClassName=jack driver 2 Member=Q32
+Removed Member From Class: ClassName=motor driver 1 Member=Q32
+Removed Member From Class: ClassName=jack driver 2 Member=Q33
+Removed Member From Class: ClassName=jack driver 2 Member=Q34
+Added Member To Class: ClassName=jack driver 1 Member=Component C12 100uF-50v-polymer
+Added Member To Class: ClassName=receiver 1 Member=Component C14 1uf-1206
+Added Member To Class: ClassName=receiver 1 Member=Component C15 1uf-1206
+Added Member To Class: ClassName=receiver 1 Member=Component C16 1uf-1206
+Added Member To Class: ClassName=jack driver 2 Member=Component C21 100uF-50v-polymer
+Added Member To Class: ClassName=jack driver 1 Member=Component D2 1N4007-SMA
+Added Member To Class: ClassName=jack driver 1 Member=Component D3 1N4007-SMA
+Added Member To Class: ClassName=motor driver 1 Member=Component D4 1N4007-SMA
+Added Member To Class: ClassName=motor driver 1 Member=Component D5 1N4007-SMA
+Added Member To Class: ClassName=interface Member=Component D6 led-red-1206
+Added Member To Class: ClassName=interface Member=Component D7 led-red-1206
+Added Member To Class: ClassName=interface Member=Component D8 led-red-1206
+Added Member To Class: ClassName=interface Member=Component D9 led-red-1206
+Added Member To Class: ClassName=interface Member=Component D10 led-red-1206
+Added Member To Class: ClassName=interface Member=Component D11 led-red-1206
+Added Member To Class: ClassName=interface Member=Component D12 led-red-1206
+Added Member To Class: ClassName=interface Member=Component D13 led-red-1206
+Added Member To Class: ClassName=interface Member=Component D14 led-red-1206
+Added Member To Class: ClassName=interface Member=Component D15 led-red-1206
+Added Member To Class: ClassName=interface Member=Component D16 led-red-1206
+Added Member To Class: ClassName=interface Member=Component D17 led-red-1206
+Added Member To Class: ClassName=interface Member=Component D19 led-red-1206
+Added Member To Class: ClassName=receiver 1 Member=Component D22 led-red-1206
+Added Member To Class: ClassName=receiver 1 Member=Component D23 led-red-1206
+Added Member To Class: ClassName=receiver 1 Member=Component D24 led-red-1206
+Added Member To Class: ClassName=receiver 1 Member=Component D25 led-red-1206
+Added Member To Class: ClassName=receiver 2 Member=Component D26 led-red-1206
+Added Member To Class: ClassName=receiver 2 Member=Component D27 led-red-1206
+Added Member To Class: ClassName=receiver 2 Member=Component D28 led-red-1206
+Added Member To Class: ClassName=receiver 2 Member=Component D29 led-red-1206
+Added Member To Class: ClassName=jack driver 1 Member=Component K1 RELAY_SPDT
+Added Member To Class: ClassName=jack driver 1 Member=Component K2 RELAY_SPDT
+Added Member To Class: ClassName=motor driver 1 Member=Component K3 RELAY_SPDT
+Added Member To Class: ClassName=motor driver 1 Member=Component K4 RELAY_SPDT
+Added Member To Class: ClassName=jack driver 1 Member=Component Q3 SS8050
+Added Member To Class: ClassName=jack driver 1 Member=Component Q4 SS8050
+Added Member To Class: ClassName=motor driver 1 Member=Component Q5 2N7002
+Added Member To Class: ClassName=motor driver 1 Member=Component Q6 2N7002
+Added Member To Class: ClassName=motor driver 1 Member=Component Q7 SS8050
+Added Member To Class: ClassName=motor driver 1 Member=Component Q8 SS8050
+Added Member To Class: ClassName=interface Member=Component Q9 SS8050
+Added Member To Class: ClassName=interface Member=Component Q10 SS8050
+Added Member To Class: ClassName=interface Member=Component Q11 SS8050
+Added Member To Class: ClassName=interface Member=Component Q12 SS8050
+Added Member To Class: ClassName=interface Member=Component Q13 SS8050
+Added Member To Class: ClassName=interface Member=Component Q14 SS8050
+Added Member To Class: ClassName=interface Member=Component Q15 SS8050
+Added Member To Class: ClassName=interface Member=Component Q16 SS8050
+Added Member To Class: ClassName=interface Member=Component Q17 SS8050
+Added Member To Class: ClassName=interface Member=Component Q18 SS8050
+Added Member To Class: ClassName=interface Member=Component Q19 SS8050
+Added Member To Class: ClassName=interface Member=Component Q20 SS8050
+Added Member To Class: ClassName=interface Member=Component Q22 SS8050
+Added Member To Class: ClassName=interface Member=Component Q23 SS8050
+Added Member To Class: ClassName=interface Member=Component Q24 SS8050
+Added Member To Class: ClassName=interface Member=Component Q25 2N7002
+Added Member To Class: ClassName=interface Member=Component Q26 2N7002
+Added Member To Class: ClassName=jack driver 2 Member=Component Q27 2N7002
+Added Member To Class: ClassName=jack driver 2 Member=Component Q28 2N7002
+Added Member To Class: ClassName=jack driver 2 Member=Component Q29 SS8050
+Added Member To Class: ClassName=jack driver 2 Member=Component Q30 SS8050
+Added Member To Class: ClassName=motor driver 1 Member=Component R14 4.7k-1206
+Added Member To Class: ClassName=motor driver 1 Member=Component R15 4.7k-1206
+Added Member To Class: ClassName=interface Member=Component R35 4.7k-1206
+Added Member To Class: ClassName=jack driver 2 Member=Component R109 4.7k-1206
+Added Member To Class: ClassName=jack driver 2 Member=Component R110 4.7k-1206
+Added Member To Class: ClassName=motor driver 2 Member=Component R111 4.7k-1206
+Added Member To Class: ClassName=motor driver 2 Member=Component R112 4.7k-1206
+Added Member To Class: ClassName=motor driver 2 Member=Component R113 4.7k-1206
+Added Member To Class: ClassName=motor driver 2 Member=Component R114 4.7k-1206
+Added Member To Class: ClassName=receiver 1 Member=Component U4 EL817
+Added Member To Class: ClassName=receiver 1 Member=Component U5 EL817
+Added Member To Class: ClassName=receiver 1 Member=Component U7 EL817
+Added Member To Class: ClassName=receiver 2 Member=Component U9 EL817
+Added Member To Class: ClassName=receiver 2 Member=Component U11 EL817

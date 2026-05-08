@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=power_ENC_2 Pin=JP4-2
+Removed Pin From Net: NetName=JACK-1-ENC-A Pin=P4-1
+Removed Pin From Net: NetName=JACK-1-ENC-B Pin=P4-2
+Removed Pin From Net: NetName=power_ENC_2 Pin=P12-2
+Removed Pin From Net: NetName=power_ENC_1 Pin=R111-2
+Removed Pin From Net: NetName=power_ENC_1 Pin=R112-2
+Added Pin To Net: NetName=JACK-1-ENC-B Pin=P4-1
+Added Pin To Net: NetName=JACK-1-ENC-A Pin=P4-2
+Add Net: Net with name "power_ENC_1" already exists
+Add Net: Net with name "power_ENC_2" already exists

@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=5v Pin=U1-2
+Removed Pin From Net: NetName=12v Pin=U1-3
+Removed Pin From Net: NetName=5v Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=3.3v Pin=U2-2
+Removed Pin From Net: NetName=12v Pin=U2-3
+Removed Pin From Net: NetName=3.3v Pin=U2-4
+Removed Member From Class: ClassName=Power Member=U1
+Removed Member From Class: ClassName=Power Member=U2
+Added Component: Designator=U?(DPAK_3)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "LF33CDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "LDO0.45V, 0.5A,  82dB@120Hz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1.5/1.8/2.5/3.3/5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "1500t"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "LF33"; VariantName = "[No Variations]"
+Added Component: Designator=U?(DPAK_3)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "LF33CDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "LDO0.45V, 0.5A,  82dB@120Hz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1.5/1.8/2.5/3.3/5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "1500t"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "LF33"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12v Pin=U?-1
+Added Pin To Net: NetName=12v Pin=U?-1
+Added Pin To Net: NetName=3.3v Pin=U?-3
+Added Pin To Net: NetName=5v Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Member To Class: ClassName=Power Member=Component U? LF33
+Added Member To Class: ClassName=Power Member=Component U? LF33
+Added Room: Name=interface
+Added Room: Name=jack driver 1
+Added Room: Name=jack driver 2
+Added Room: Name=motor driver 1
+Added Room: Name=motor driver 2
+Added Room: Name=Power
+Added Room: Name=receiver 1
+Added Room: Name=receiver 2
