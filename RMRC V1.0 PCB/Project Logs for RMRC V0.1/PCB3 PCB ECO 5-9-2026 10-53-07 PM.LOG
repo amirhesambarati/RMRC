@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Motor2_NC Pin=J13-01
+Removed Pin From Net: NetName=Motor2_NO Pin=J13-03
+Change Component Description : Designator=J4 Old Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series New Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series | Phoenix Contact 1759020
+Change Component Description : Designator=J13 Old Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series New Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series | Phoenix Contact 1759020
+Added Pin To Net: NetName=Motor2_NO Pin=J13-01
+Added Pin To Net: NetName=Motor2_NC Pin=J13-03

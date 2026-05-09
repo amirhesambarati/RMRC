@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=5v Pin=JP2-1
+Removed Pin From Net: NetName=power_ENC_1 Pin=JP2-2
+Removed Pin From Net: NetName=12v Pin=JP2-3
+Removed Pin From Net: NetName=power_ENC_1 Pin=P6-2
+Removed Member From Class: ClassName=motor driver 1 Member=C12
+Removed Member From Class: ClassName=receiver 1 Member=C16
+Removed Member From Class: ClassName=jack driver 2 Member=C19
+Removed Member From Class: ClassName=receiver 2 Member=C19
+Removed Member From Class: ClassName=motor driver 1 Member=JP2
+Added Component: Designator=JP?(HDRLP_F_1X3)
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRF3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5v Pin=JP?-1
+Added Pin To Net: NetName=12v Pin=JP?-3
+Added Pin To Net: NetName=power_ENC_1 Pin=R111-2
+Added Pin To Net: NetName=power_ENC_1 Pin=R112-2
+Added Pin To Net: NetName=power_ENC_5 Pin=JP?-2
+Added Pin To Net: NetName=power_ENC_5 Pin=P6-2
+Added Net: Name=power_ENC_5
+Added Pin To Net: NetName=power_ENC_6 Pin=JP4-2
+Added Pin To Net: NetName=power_ENC_6 Pin=P12-2
+Added Net: Name=power_ENC_6
+Added Member To Class: ClassName=jack driver 1 Member=Component C13 100uF-50v-polymer
+Added Member To Class: ClassName=motor driver 1 Member=Component C14 1nf-1206
+Added Member To Class: ClassName=receiver 1 Member=Component C18 1uf-1206
+Added Member To Class: ClassName=receiver 1 Member=Component C20 1uf-1206
+Added Member To Class: ClassName=receiver 2 Member=Component C22 1uf-1206
+Added Member To Class: ClassName=receiver 2 Member=Component C24 1uf-1206
+Added Member To Class: ClassName=jack driver 2 Member=Component C25 1nf-1206
+Added Member To Class: ClassName=motor driver 1 Member=Component JP? HDRF3

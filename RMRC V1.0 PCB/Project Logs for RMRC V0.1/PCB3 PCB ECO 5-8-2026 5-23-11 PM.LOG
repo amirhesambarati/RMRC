@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=power_ENC_2 Pin=JP4-2
+Removed Pin From Net: NetName=power_ENC_2 Pin=P12-2
+Removed Pin From Net: NetName=power_ENC_1 Pin=R111-2
+Removed Pin From Net: NetName=power_ENC_1 Pin=R112-2
+Removed Pin From Net: NetName=NetQ25_2 Pin=U3-1
+Removed Pin From Net: NetName=NetQ26_2 Pin=U3-2
+Removed Pin From Net: NetName=NetC13_2 Pin=U3-3
+Removed Pin From Net: NetName=NetR45_2 Pin=U3-4
+Removed Pin From Net: NetName=NetR12_2 Pin=U3-55
+Removed Pin From Net: NetName=NetR13_2 Pin=U3-56
+Removed Pin From Net: NetName=NetC18_2 Pin=U3-57
+Removed Pin From Net: NetName=NetC20_2 Pin=U3-58
+Removed Pin From Net: NetName=NetC19_2 Pin=U3-59
+Removed Pin From Net: NetName=NetC21_2 Pin=U3-60
+Removed Pin From Net: NetName=NetC17_2 Pin=U3-61
+Removed Pin From Net: NetName=NetC14_2 Pin=U3-62
+Removed Pin From Net: NetName=NetC16_2 Pin=U3-63
+Removed Pin From Net: NetName=NetC15_2 Pin=U3-64
+Change Component Description : Designator=J4 Old Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series New Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series | Phoenix Contact 1759020
+Change Component Description : Designator=J13 Old Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series New Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series | Phoenix Contact 1759020
+Added Pin To Net: NetName=NetQ26_2 Pin=U3-1
+Added Pin To Net: NetName=NetC13_2 Pin=U3-2
+Added Pin To Net: NetName=NetR45_2 Pin=U3-3
+Added Pin To Net: NetName=NetR12_2 Pin=U3-54
+Added Pin To Net: NetName=NetR13_2 Pin=U3-55
+Added Pin To Net: NetName=NetC18_2 Pin=U3-56
+Added Pin To Net: NetName=NetC20_2 Pin=U3-57
+Added Pin To Net: NetName=NetC19_2 Pin=U3-58
+Added Pin To Net: NetName=NetC21_2 Pin=U3-59
+Added Pin To Net: NetName=NetC17_2 Pin=U3-60
+Added Pin To Net: NetName=NetC14_2 Pin=U3-61
+Added Pin To Net: NetName=NetC16_2 Pin=U3-62
+Added Pin To Net: NetName=NetC15_2 Pin=U3-63
+Added Pin To Net: NetName=NetQ25_2 Pin=U3-64
+Add Net: Net with name "power_ENC_1" already exists
+Add Net: Net with name "power_ENC_2" already exists
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

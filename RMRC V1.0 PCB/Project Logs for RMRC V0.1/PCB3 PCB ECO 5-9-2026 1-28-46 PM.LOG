@@ -1,0 +1,42 @@
+Added Component: Designator=JP2(HDRLP_F_1X3)
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRF3"; VariantName = "[No Variations]"
+Added Component: Designator=JP4(HDRLP_F_1X3)
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRF3"; VariantName = "[No Variations]"
+Added Component: Designator=P6(PHOENIX_1803578)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1803578/Phoenix%20Contact/view-part/46882/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1803578"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Custom Package Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/1803578/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1803578/Phoenix%20Contact/view-part/46882/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P12(PHOENIX_1803578)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1803578/Phoenix%20Contact/view-part/46882/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1803578"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Custom Package Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/1803578/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1803578/Phoenix%20Contact/view-part/46882/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5v Pin=JP2-1
+Added Pin To Net: NetName=power_ENC_1 Pin=JP2-2
+Added Pin To Net: NetName=12v Pin=JP2-3
+Added Pin To Net: NetName=5v Pin=JP4-1
+Added Pin To Net: NetName=12v Pin=JP4-3
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=power_ENC_1 Pin=P6-2
+Added Pin To Net: NetName=GND Pin=P12-1
+Add Net: Net with name "power_ENC_1" already exists
+Add Net: Net with name "power_ENC_2" already exists
+Added Member To Class: ClassName=motor driver 1 Member=Component JP2 HDRF3
+Added Member To Class: ClassName=motor driver 2 Member=Component JP4 HDRF3
+Added Member To Class: ClassName=motor driver 1 Member=Component P6 phoenix-3.81mm-2pos
+Added Member To Class: ClassName=motor driver 2 Member=Component P12 phoenix-3.81mm-2pos

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=5v Pin=U2-3
+Change Component Comment : Designator=R65 Old Comment=300 ohm-1206 New Comment=10K -1206
+Change Component Comment : Designator=R66 Old Comment=300 ohm-1206 New Comment=10K -1206
+Change Component Comment : Designator=R77 Old Comment=300 ohm-1206 New Comment=10K -1206
+Change Component Comment : Designator=R78 Old Comment=300 ohm-1206 New Comment=10K -1206
+Change Component Comment : Designator=R89 Old Comment=300 ohm-1206 New Comment=10K -1206
+Change Component Comment : Designator=R90 Old Comment=300 ohm-1206 New Comment=10K -1206
+Change Component Comment : Designator=R101 Old Comment=300 ohm-1206 New Comment=10K -1206
+Change Component Comment : Designator=R102 Old Comment=300 ohm-1206 New Comment=10K -1206
+Added Pin To Net: NetName=12v Pin=U2-3

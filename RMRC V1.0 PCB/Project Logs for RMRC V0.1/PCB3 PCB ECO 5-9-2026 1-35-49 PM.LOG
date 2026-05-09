@@ -1,0 +1,26 @@
+Removed Member From Class: ClassName=interface Member=C12
+Removed Member From Class: ClassName=motor driver 1 Member=C12
+Removed Member From Class: ClassName=receiver 1 Member=C15
+Removed Member From Class: ClassName=receiver 1 Member=C16
+Removed Member From Class: ClassName=receiver 2 Member=C16
+Removed Member From Class: ClassName=receiver 2 Member=C17
+Removed Member From Class: ClassName=jack driver 2 Member=C19
+Removed Member From Class: ClassName=receiver 2 Member=C19
+Removed Member From Class: ClassName=motor driver 2 Member=C21
+Removed Member From Class: ClassName=jack driver 2 Member=C23
+Change Component Designator: OldDesignator=JP? NewDesignator=JP2
+Added Pin To Net: NetName=power_ENC_5 Pin=R14-2
+Added Pin To Net: NetName=power_ENC_5 Pin=R15-2
+Added Pin To Net: NetName=power_ENC_6 Pin=R111-2
+Added Pin To Net: NetName=power_ENC_6 Pin=R112-2
+Added Member To Class: ClassName=jack driver 1 Member=Component C13 100uF-50v-polymer
+Added Member To Class: ClassName=motor driver 1 Member=Component C14 1nf-1206
+Added Member To Class: ClassName=interface Member=Component C16 1nf-1206
+Added Member To Class: ClassName=receiver 1 Member=Component C18 1uf-1206
+Added Member To Class: ClassName=receiver 1 Member=Component C20 1uf-1206
+Added Member To Class: ClassName=receiver 2 Member=Component C22 1uf-1206
+Added Member To Class: ClassName=receiver 2 Member=Component C23 1uf-1206
+Added Member To Class: ClassName=receiver 2 Member=Component C24 1uf-1206
+Added Member To Class: ClassName=jack driver 2 Member=Component C25 1nf-1206
+Added Member To Class: ClassName=jack driver 2 Member=Component C26 100uF-50v-polymer
+Added Member To Class: ClassName=motor driver 2 Member=Component C27 1nf-1206

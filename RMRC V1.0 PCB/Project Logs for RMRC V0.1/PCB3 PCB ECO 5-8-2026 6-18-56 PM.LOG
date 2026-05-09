@@ -1,0 +1,51 @@
+Removed Member From Class: ClassName=interface Member=C23
+Removed Member From Class: ClassName=jack driver 1 Member=C26
+Removed Member From Class: ClassName=receiver 1 Member=C26
+Removed Member From Class: ClassName=receiver 1 Member=C27
+Removed Member From Class: ClassName=receiver 1 Member=C30
+Add component: Footprint Not Found CAPC3216X180N
+Add component: Footprint Not Found CAPC3216X180N
+Add component: Footprint Not Found CAPC3216X180N
+Add component: Footprint Not Found CAPC3216X180N
+Add component: Footprint Not Found CAPC3216X180N
+Add component: Footprint Not Found CAPC3216X180N
+Add component: Footprint Not Found CAPC3216X180N
+Add component: Footprint Not Found CAPC3216X180N
+Add component: Footprint Not Found CAPC3216X180N
+Add component: Footprint Not Found CAPC3216X180N
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C15-2
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin C18-1
+Add Pin To Net: Unknown Pin: Pin C18-2
+Add Pin To Net: Unknown Pin: Pin C19-1
+Add Pin To Net: Unknown Pin: Pin C19-2
+Add Pin To Net: Unknown Pin: Pin C28-1
+Add Pin To Net: Unknown Pin: Pin C28-2
+Add Pin To Net: Unknown Pin: Pin C29-1
+Add Pin To Net: Unknown Pin: Pin C29-2
+Add Pin To Net: Unknown Pin: Pin C31-1
+Add Pin To Net: Unknown Pin: Pin C31-2
+Add Pin To Net: Unknown Pin: Pin C32-1
+Add Pin To Net: Unknown Pin: Pin C32-2
+Add Net: Net with name "power_ENC_1" already exists
+Add Net: Net with name "power_ENC_2" already exists
+Add Class Member: Failed to add class member : Component C12 1nf-1206
+Add Class Member: Failed to add class member : Component C13 1nf-1206
+Add Class Member: Failed to add class member : Component C15 1nf-1206
+Add Class Member: Failed to add class member : Component C16 1nf-1206
+Added Member To Class: ClassName=interface Member=Component C17 1uf-1206
+Add Class Member: Failed to add class member : Component C18 1nf-1206
+Add Class Member: Failed to add class member : Component C19 1nf-1206
+Added Member To Class: ClassName=receiver 1 Member=Component C20 1uf-1206
+Added Member To Class: ClassName=receiver 1 Member=Component C21 1uf-1206
+Added Member To Class: ClassName=receiver 1 Member=Component C22 1uf-1206
+Add Class Member: Failed to add class member : Component C28 1nf-1206
+Add Class Member: Failed to add class member : Component C29 1nf-1206
+Add Class Member: Failed to add class member : Component C31 1nf-1206
+Add Class Member: Failed to add class member : Component C32 1nf-1206

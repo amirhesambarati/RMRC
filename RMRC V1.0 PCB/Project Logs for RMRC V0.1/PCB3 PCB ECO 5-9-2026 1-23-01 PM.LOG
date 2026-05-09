@@ -1,0 +1,6 @@
+Change Component Description : Designator=J4 Old Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series New Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series | Phoenix Contact 1759020
+Change Component Description : Designator=J13 Old Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series New Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series | Phoenix Contact 1759020
+Add Net: Net with name "power_ENC_1" already exists
+Add Net: Net with name "power_ENC_2" already exists
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

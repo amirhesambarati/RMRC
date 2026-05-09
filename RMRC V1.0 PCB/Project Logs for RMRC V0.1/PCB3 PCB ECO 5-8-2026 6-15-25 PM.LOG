@@ -1,0 +1,82 @@
+Change Component Designator: OldDesignator=C12 NewDesignator=C14
+Change Component Designator: OldDesignator=C13 NewDesignator=C17
+Change Component Designator: OldDesignator=C14 NewDesignator=C20
+Change Component Designator: OldDesignator=C15 NewDesignator=C21
+Change Component Designator: OldDesignator=C16 NewDesignator=C22
+Change Component Designator: OldDesignator=C17 NewDesignator=C23
+Change Component Designator: OldDesignator=C18 NewDesignator=C24
+Change Component Designator: OldDesignator=C19 NewDesignator=C25
+Change Component Designator: OldDesignator=C20 NewDesignator=C26
+Change Component Designator: OldDesignator=C21 NewDesignator=C27
+Change Component Designator: OldDesignator=C22 NewDesignator=C30
+Change Component Description : Designator=J4 Old Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series New Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series | Phoenix Contact 1759020
+Change Component Description : Designator=J13 Old Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series New Description=Pluggable Header 5.08mm 12AWG 320V 12A 3 Position COMBICON MSTB Series | Phoenix Contact 1759020
+Add component: Footprint Not Found CAPC3216X180N
+Add component: Footprint Not Found CAPC3216X180N
+Add component: Footprint Not Found CAPC3216X180N
+Add component: Footprint Not Found CAPC3216X180N
+Add component: Footprint Not Found CAPC3216X180N
+Add component: Footprint Not Found CAPC3216X180N
+Add component: Footprint Not Found CAPC3216X180N
+Add component: Footprint Not Found CAPC3216X180N
+Add component: Footprint Not Found CAPC3216X180N
+Add component: Footprint Not Found CAPC3216X180N
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C15-2
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin C18-1
+Add Pin To Net: Unknown Pin: Pin C18-2
+Add Pin To Net: Unknown Pin: Pin C19-1
+Add Pin To Net: Unknown Pin: Pin C19-2
+Add Pin To Net: Unknown Pin: Pin C28-1
+Add Pin To Net: Unknown Pin: Pin C28-2
+Add Pin To Net: Unknown Pin: Pin C29-1
+Add Pin To Net: Unknown Pin: Pin C29-2
+Add Pin To Net: Unknown Pin: Pin C31-1
+Add Pin To Net: Unknown Pin: Pin C31-2
+Add Pin To Net: Unknown Pin: Pin C32-1
+Add Pin To Net: Unknown Pin: Pin C32-2
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC17_2
+Change Net Name : Old Net Name=NetC14_1 New Net Name=NetC20_1
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC20_2
+Change Net Name : Old Net Name=NetC15_1 New Net Name=NetC21_1
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetC21_2
+Change Net Name : Old Net Name=NetC16_1 New Net Name=NetC22_1
+Change Net Name : Old Net Name=NetC16_2 New Net Name=NetC22_2
+Change Net Name : Old Net Name=NetC17_1 New Net Name=NetC23_1
+Change Net Name : Old Net Name=NetC17_2 New Net Name=NetC23_2
+Change Net Name : Old Net Name=NetC18_1 New Net Name=NetC24_1
+Change Net Name : Old Net Name=NetC18_2 New Net Name=NetC24_2
+Change Net Name : Old Net Name=NetC19_1 New Net Name=NetC25_1
+Change Net Name : Old Net Name=NetC19_2 New Net Name=NetC25_2
+Change Net Name : Old Net Name=NetC20_1 New Net Name=NetC26_1
+Change Net Name : Old Net Name=NetC20_2 New Net Name=NetC26_2
+Change Net Name : Old Net Name=NetC21_1 New Net Name=NetC27_1
+Change Net Name : Old Net Name=NetC21_2 New Net Name=NetC27_2
+Change Net Name : Old Net Name=NetQ1_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetQ2_2 New Net Name=NetC13_2
+Change Net Name : Old Net Name=NetQ5_2 New Net Name=NetC15_2
+Change Net Name : Old Net Name=NetQ6_2 New Net Name=NetC16_2
+Change Net Name : Old Net Name=NetQ25_2 New Net Name=NetC18_2
+Change Net Name : Old Net Name=NetQ26_2 New Net Name=NetC19_2
+Change Net Name : Old Net Name=NetQ27_2 New Net Name=NetC28_2
+Change Net Name : Old Net Name=NetQ28_2 New Net Name=NetC29_2
+Change Net Name : Old Net Name=NetQ31_2 New Net Name=NetC31_2
+Change Net Name : Old Net Name=NetQ32_2 New Net Name=NetC32_2
+Add Net: Net with name "power_ENC_1" already exists
+Add Net: Net with name "power_ENC_2" already exists
+Add Class Member: Failed to add class member : Component C13 1nf-1206
+Added Member To Class: ClassName=jack driver 1 Member=Component C14 100uF-50v-polymer
+Add Class Member: Failed to add class member : Component C15 1nf-1206
+Add Class Member: Failed to add class member : Component C16 1nf-1206
+Add Class Member: Failed to add class member : Component C18 1nf-1206
+Add Class Member: Failed to add class member : Component C19 1nf-1206
+Add Class Member: Failed to add class member : Component C28 1nf-1206
+Add Class Member: Failed to add class member : Component C29 1nf-1206
+Add Class Member: Failed to add class member : Component C31 1nf-1206
+Add Class Member: Failed to add class member : Component C32 1nf-1206
